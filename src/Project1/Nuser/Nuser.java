@@ -1,4 +1,5 @@
 package Project1.Nuser;
 
-public class NuserVO {
+public class Nuser {
+
 }
